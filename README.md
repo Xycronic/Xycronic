@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**XInterverse/XInterverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://cdn.xinterverse.cf/wallpaper.png">
 
-Here are some ideas to get you started:
+Programmer, graphics designer and CEO of Itexel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... [Itexel](https://itexel.net) - an organisation in the process of developing technological services
+- 🌱 I’m currently learning ... PHP
+- 👯 I’m looking to collaborate on ... nothing
+- 🤔 I’m looking for help with ... JWTs (JSON Web Tokens)
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Started programming only a year ago and learnt HTML, CSS, JS, PHP and Node.js
+
+---
+**Email:** xinterverse@xinterverse.cf<br>**Website:** https://xinterverse.cf<br>**Discord:** XInterverse#0001
