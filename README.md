@@ -12,4 +12,4 @@ Programmer, graphics designer and CEO of Itexel.
 - ⚡ Fun fact: Started programming only a year ago and learnt HTML, CSS, JS, PHP and Node.js
 
 ---
-**Email:** xinterverse@xinterverse.cf<br>**Website:** https://xinterverse.cf<br>**Discord:** XInterverse#0001
+**Email:** xinterverse@xinterverse.cf<br>**Website:** https://xinterverse.cf<br>**Discord:** Xycronix#9999
